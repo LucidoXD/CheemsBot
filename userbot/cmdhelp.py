@@ -54,7 +54,7 @@ class CmdHelp:
         
         """
 
-        result = f"**📗 Modul:** `{self.FILE}`\n"
+        result = f"**Modul:** `{self.FILE}`\n"
         if self.WARNING == '' and self.INFO == '':
             result += f"**♻️ Official:** {'✅' if self.IS_OFFICIAL else '❌'}\n\n"
         else:
