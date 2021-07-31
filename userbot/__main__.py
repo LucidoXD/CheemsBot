@@ -28,11 +28,11 @@ except PhoneNumberInvalidError:
 for module_name in ALL_MODULES:
     imported_module = import_module("userbot.modules." + module_name)
 
-LOGS.info("Your CheemsBot userbot is running!")
+LOGS.info("Your userbot is running!")
 
 LOGS.info(
     "Congratulations, the bot is up and running! Send .help in any chat for more info.\n"
-    "If you need assistance, head to https://t.me/CheemsUserbot"
+    "If you need assistance, head to https://t.me/LucidoXD"
 )
 
 if len(argv) not in (1, 3, 4):
