@@ -10,7 +10,7 @@ CheemsBot is a modular Telegram userbot running on Python 3.8+ with an SQLAlchem
 
 ## Setting up
 ## Deploy
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fgamerfuckerofficial%2FCheemsBot&template=https%3A%2F%2Fgithub.com%2Fgamerfuckerofficial%2FCheemsBot)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/LucidoXD/LUCIDOUB&template=https://github.com/LucidoXD/LUCIDOUB)
 
 # String Session
 ### Repl 🧨
