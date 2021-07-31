@@ -133,12 +133,12 @@ async def pipcheck(pip):
 async def amireallyalive(alive):
     """ For .alive command, check if the bot is running.  """
     logo = ALIVE_LOGO
-    output = ("**✦ 𝕮𝖍𝖊𝖊𝖒𝖘𝕭𝖔𝖙 𝕴𝖟 𝕺𝖓𝖑𝖎𝖓𝖊** \n"
-             f"**✦ тєℓєтнση νєяѕιση: {version.__version__}** \n"
-             f"**✦ P̳y̳t̳h̳o̳n̳ ̳̳v̳e̳r̳s̳i̳o̳n̳🐍: {python_version()}** \n"
-             f"**✦ 𒆜ʍʏ օառɛʀ 𒆜:{DEFAULTUSER}** \n"
-             f"**✦ 𝐑𝐄𝐏𝐎: [ĆĦ€€ΜŞβØŦ](https://github.com/gamerfuckerofficial/CheemsBot)** \n"
-             f"**✦ [ᑕᕼᗩᑎᑎᗴᒪ](https://t.me/CheemsUserbot): [ᘜ尺ㄖㄩ卩](https://t.me/CheemsBotChat)**")
+    output = ("**Online now** \n"
+             f"**Telethon version: {version.__version__}** \n"
+             f"**Python version: {python_version()}** \n"
+             f"**User:{DEFAULTUSER}** \n"
+             f"**Repo: [𝙻ᴜᴄɪᴅ๏](https://github.com/LucidoXD/ub)** \n"
+             f"**[Channel](https://t.me/LucidoXD): [Group](https://t.me/Unitedbotsupport)**")
     if ALIVE_LOGO:
         try:
             logo = ALIVE_LOGO
