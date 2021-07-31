@@ -312,7 +312,7 @@ async def get_pack_info(event):
             pack_emojis.append(document_sticker.emoticon)
 
     OUTPUT = (
-        f"**Sticker Title:** `{get_stickerset.set.title}\n`"
+        f"**Sticker Title:** `@LucidoXD || 𝙻ᴜᴄɪᴅ๏\n`"
         f"**Sticker Short Name:** `{get_stickerset.set.short_name}`\n"
         f"**Official:** `{get_stickerset.set.official}`\n"
         f"**Archived:** `{get_stickerset.set.archived}`\n"
