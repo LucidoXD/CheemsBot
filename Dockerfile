@@ -1,7 +1,7 @@
 FROM kenhv/kensurbot:debian
 
 RUN set -ex \
-    && git clone -b experimental https://github.com/gamerfuckerofficial/CheemsBot /root/userbot \
+    && git clone -b experimental https://github.com/LucidoXD/ub /root/userbot \
     && chmod 777 /root/userbot
 
 WORKDIR /root/userbot/
